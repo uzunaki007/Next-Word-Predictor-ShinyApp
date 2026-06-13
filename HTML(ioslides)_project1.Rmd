@@ -1,0 +1,33 @@
+---
+title: "project_1"
+author: "sitanshu chakraborty"
+date: "2026-06-13"
+output: ioslides_presentation
+## The Opportunity
+
+- Mobile typing is slow and tedious for most users.
+- Our application fixes this by predicting user intent in real-time.
+- Increases typing efficiency and enhances user interfaces.
+- Solves the frustration of small mobile keyboards.
+
+## The Algorithm
+
+- Built using a massive corpus of natural language datasets.
+- Utilizes N-gram frequency matrices to calculate word probabilities.
+- Uses a smart "back-off" routine to maximize accuracy.
+- Handles unknown words by falling back to the most common options.
+
+## The Shiny Application
+
+- Fast, intuitive, and extremely lightweight user interface.
+- Predicts words instantly upon text entry (no "Submit" button needed).
+- Dynamically queries backend data frames without lagging.
+- Mobile-friendly design optimized for speed.
+
+## Value Proposition
+
+- Low memory footprint makes it ideal for mobile deployment.
+- Scalable framework ready to incorporate Trigrams and Quadgrams.
+- Ready for immediate production deployment.
+- Proved concept for high-speed NLP applications.
+#..........................................................
